@@ -1,0 +1,22 @@
+{
+  "name": "jest-javascript-testing-framework",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saleh88hbg/Jest-JavaScript-testing-framework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saleh88hbg/Jest-JavaScript-testing-framework/issues"
+  },
+  "homepage": "https://github.com/saleh88hbg/Jest-JavaScript-testing-framework#readme",
+  "devDependencies": {
+    "jest": "^27.1.1"
+  }
+}
